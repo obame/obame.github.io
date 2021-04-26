@@ -7587,7 +7587,7 @@ button.bg-dark:focus {
 
 .mb-4,
 .my-4 {
-  margin-bottom: 1.5rem !important;
+  margin-bottom: 1.6rem !important;
 }
 
 .ml-4,
@@ -9995,8 +9995,7 @@ h1,
 h2,
 h3,
 h4,
-h5,
-h6 {
+ {
   text-transform: uppercase;
 }
 
@@ -10005,15 +10004,19 @@ h1 {
 }
 
 p.lead {
-  font-size: 1.15rem;
-  font-weight: 400;
+  font-size: 1.25rem;
+  font-weight: 500;
 }
 
+p.lead2 {
+  font-size: 1.55rem;
+  font-weight: 400;
+}
 .subheading {
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  text-transform: uppercase;
+  text-transform: none;
   font-weight: 500;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
